@@ -4,7 +4,7 @@
   <test thread-count="5" name="GroupTest">
 	 <groups>
 		 <run>
-			  <include name="functionality"></include>
+			  <include name="context_menu"></include>
 			  <exclude name="regression"></exclude>
 		 </run>
 	 </groups>
